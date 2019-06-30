@@ -1,0 +1,27 @@
+h1,h3,h2,p
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+ }
+body
+{
+    background: rgba(240, 212, 55, 0.911);
+}
+section
+{
+    background: rgba(17, 133, 148, 0.863);
+}
+div
+{
+    background: rgb(221, 245, 255);
+    font-family: cursive;
+    font-size: 14px;
+}
+footer
+{
+    background: rgb(168, 36, 80);
+}
+a
+{
+    color: black;
+}
